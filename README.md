@@ -1,4 +1,4 @@
-# dicio-cli
+# dicio-py
 Um dicionário com interface de terminal (Dessa vez feito em Python para ser multiplataforma)
 
 Este script faz um web scraping no site: https://www.dicio.com.br/ e formata o retorno em um agradável texto em terminal. 
